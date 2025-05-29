@@ -25,7 +25,6 @@ This Project is under Construction and will be completed by May,2025
 Publication information : Journal Of Technology (ISSN 1012-3407) VOLUME 13 ISSUE 4, 2025, link: https://journaloftechnology.org/volume-13-issue-4-2025/
 Research Paper link : https://drive.google.com/file/d/155Bd2ev7bLahUgQUl5RWA-Eq-uTfoCGA/view
 
-for more details follow this link : https://github.com/adityamishra-71/Anonymity-and-Confidentiality-in-Website-using-ML
 
 
 
